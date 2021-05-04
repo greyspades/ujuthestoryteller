@@ -10,9 +10,16 @@ module.exports = withPlugins([withImages], {
     config.resolve.modules.push(path.resolve("./"));
     return config;
   },
-  env: {
-    mongodburl:"mongodb+srv://grey:Vermilion9%23@cluster0.j4dir.mongodb.net/users?retryWrites=true&w=majority"
-  }
+  async redirects() {
+    return [
+      {
+        source: '/Profile',
+        destination: '/',
+        permanent: true,
+      },
+    ]
+  },
+  
 });
 /*module.exports = {
   env: {
