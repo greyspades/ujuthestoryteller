@@ -97,9 +97,9 @@ const user=()=>{
                        Meet Grace
                      </h3>
                            Grace is a foremost Sociologist and An Anthropologist.
-                           She is related in gender-related issues. She is a practising Attorney,
+                           She is interested in gender-related issues. She is a practising Attorney,
                            a solicitor and an Advocate. A keen observer of human rights and social justice. Grace a natural storyteller,
-                           believes she has more  than a thousand stories running amok in her head. She devites her spare time between Breast
+                           believes she has more  than a thousand stories running amok in her head. She devotes her spare time between Breast
                            and Cervical Cancer advocacy, and her Garden
                         </div>
                    </Col>
